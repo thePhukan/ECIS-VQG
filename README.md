@@ -1,5 +1,5 @@
 # Entity-centric Information-seeking Question Generation from Videos
-Code and [Data] (https://forms.gle/5t3Si7sVptj881bo6) for the Paper: "Entity-centric Information-seeking Question Generation from Videos"
+Code and [Data](https://forms.gle/5t3Si7sVptj881bo6) for the Paper: "Entity-centric Information-seeking Question Generation from Videos"
 ## Requirements
 - conda create -n vqg python=3.8.5
 - conda activate vqg
