@@ -33,7 +33,7 @@ import pickle
 
 
 # build word index
-filename_dataset = "sample_data"
+filename_dataset = "VideoQuestions"
 data = pd.read_excel(path+filename_dataset+".xlsx")
 
 from sklearn.model_selection import train_test_split
